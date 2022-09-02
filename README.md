@@ -1,7 +1,8 @@
-- :smiling_imp: Olá, meu nome é Pedro Antonio 
-- :hear_no_evil: Estou aprendendo a programar nas linguagens de programação Scratch e JavaScript
-- :v: Sou um estudande do Ensino Médio da escola Marechal Rondon
-- :money_mouth_face: Meu Email de acesso é pedro.trassi@escola.pr.gov
+# Minha Profile do GitHub.
+- :smiling_imp: Olá, meu nome é Pedro Antonio.
+- :hear_no_evil: Estou aprendendo a programar nas linguagens de programação Scratch e JavaScript.
+- :v: Sou um estudande do Ensino Médio da escola Marechal Rondon.
+- :money_mouth_face: Meu Email de acesso é pedro.trassi@escola.pr.gov.
 
 ![imagem15](https://user-images.githubusercontent.com/111252527/187808749-8a468395-a8e7-4256-aa60-5f220e198fbd.gif)
 
